@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\bin\Debug\SeePictures_2.exe.config
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\bin\Debug\SeePictures_2.exe
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\bin\Debug\SeePictures_2.pdb
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.Form1.resources
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.Properties.Resources.resources
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.exe
+C:\Users\Andre\source\repos\SeePictures_2\SeePictures_2\obj\Debug\SeePictures_2.pdb
